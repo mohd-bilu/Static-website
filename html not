@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HTML</title>
+        <link rel="stylesheet" href="styles.css">
+
+    </head>
+    <body class="body">
+      
+       <blockquote><p class="m1">Home About Conctact</p></blockquote>
+     <div class="h1">
+       <h1 > Hello! I'm a Web Developer</h1>
+       <p class="p1"> This is a static website made with HTML and CSS.</p>
+         </div><br>
+         <div class="h2">
+            <h2 >
+                About Me
+            </h2>
+            <p class="p2">
+                I am learning web development through brocamp and building project like this.
+            </p>
+         </div><br><br>
+         <div class="h3">
+            <h3>
+                @2025 My Static Website.All rights reserved.
+            </h3>
+         </div>
+     
+                     
+        
+
+    
+       
+    </body>
+</html>
+
